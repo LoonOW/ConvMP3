@@ -1,0 +1,12 @@
+
+ALL GIRLS ARE THE SAME. Error: Evaluation failed: TypeError: Cannot read property 'click' of null
+    at __puppeteer_evaluation_script__:3:9 _____2020/9/11 | 21:31:39
+ALL GIRLS ARE THE SAME. Error: Evaluation failed: TypeError: Cannot read property 'click' of null
+    at __puppeteer_evaluation_script__:3:9 _____2020/9/11 | 21:32:0
+ALONE. Error: Evaluation failed: TypeError: Cannot read property 'click' of null
+    at __puppeteer_evaluation_script__:3:9 _____2020/9/11 | 21:32:16
+ALL GIRLS ARE THE SAME. Error: Evaluation failed: TypeError: Cannot read property 'click' of null
+    at __puppeteer_evaluation_script__:3:9 _____2020/9/11 | 21:32:58
+ALL GIRLS ARE THE SAME. Error: Evaluation failed: TypeError: Cannot read property 'click' of null
+    at __puppeteer_evaluation_script__:3:9 _____2020/9/11 | 21:38:35
+ALL GIRLS ARE THE SAME. Error: Protocol error (Runtime.callFunctionOn): Target closed. _____2020/9/11 | 21:46:51
